@@ -1,2 +1,6 @@
 language = "java10"
+<<<<<<< HEAD
 run = "cd src&&javac ShoppingCartManager.java ShoppingCart.java ItemToPurchase.java&&java ShoppingCartManager"
+=======
+run = "cd src&&javac ShoppingCartManager.java ShoppingCart.java ItemToPurchase.java&&java ShoppingCartManager"
+>>>>>>> origin/master
