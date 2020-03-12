@@ -1,6 +1,7 @@
-# JavaCh7ProgramOutline
+# Java Chapter 7
 
-## Welcome to GitHub Pages
+## Program Outline
+
 
 This program is an outline for the assignment for chapter 7 in Java.
 
